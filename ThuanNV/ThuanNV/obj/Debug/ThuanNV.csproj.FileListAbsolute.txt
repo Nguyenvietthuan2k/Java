@@ -1,0 +1,5 @@
+c:\users\std\documents\visual studio 2015\Projects\ThuanNV\ThuanNV\bin\Debug\ThuanNV.exe.config
+c:\users\std\documents\visual studio 2015\Projects\ThuanNV\ThuanNV\bin\Debug\ThuanNV.exe
+c:\users\std\documents\visual studio 2015\Projects\ThuanNV\ThuanNV\bin\Debug\ThuanNV.pdb
+c:\users\std\documents\visual studio 2015\Projects\ThuanNV\ThuanNV\obj\Debug\ThuanNV.exe
+c:\users\std\documents\visual studio 2015\Projects\ThuanNV\ThuanNV\obj\Debug\ThuanNV.pdb
