@@ -1,0 +1,6 @@
+c:\users\std\documents\visual studio 2015\Projects\BT601\BT601\bin\Debug\BT601.exe.config
+c:\users\std\documents\visual studio 2015\Projects\BT601\BT601\bin\Debug\BT601.exe
+c:\users\std\documents\visual studio 2015\Projects\BT601\BT601\bin\Debug\BT601.pdb
+c:\users\std\documents\visual studio 2015\Projects\BT601\BT601\obj\Debug\BT601.csprojResolveAssemblyReference.cache
+c:\users\std\documents\visual studio 2015\Projects\BT601\BT601\obj\Debug\BT601.exe
+c:\users\std\documents\visual studio 2015\Projects\BT601\BT601\obj\Debug\BT601.pdb
